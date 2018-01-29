@@ -3,18 +3,18 @@
 	{
 		"selected_items":
 		[
+			[
+				"Arr",
+				"array"
+			],
+			[
+				"Arra",
+				"ArrayToXml〔namespace〕"
+			]
 		]
 	},
 	"buffers":
 	[
-		{
-			"file": ".env",
-			"settings":
-			{
-				"buffer_size": 583,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -71,10 +71,16 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/gustavojuan/Projects/APIRestful"
+		"/D/Documentos/Proyectos/formacion/APIRestful",
+		"/D/Documentos/Proyectos/formacion/APIRestful/database"
 	],
 	"file_history":
 	[
+		"/Z/PROYECTOS WEB/Moll/index.php",
+		"/Z/PROYECTOS WEB/Moll/composer.json",
+		"/D/Documentos/Proyectos/LOCALHOST/mollautos/carfactory/composer.json",
+		"/D/Documentos/Proyectos/LOCALHOST/mollautos/carfactory/index.php",
+		"/D/Documentos/Proyectos/formacion/APIRestful/.env",
 		"/Users/gustavojuan/Projects/APIRestful/.env",
 		"/Users/gustavojuan/Projects/APIRestful/app/User.php",
 		"/Users/gustavojuan/Projects/APIRestful/Homestead.yaml",
@@ -89,7 +95,7 @@
 	],
 	"find":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"find_in_files":
 	{
@@ -120,47 +126,18 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": ".env",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 583,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								531,
-								531
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
 	"incremental_find":
 	{
-		"height": 0.0
+		"height": 33.0
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 71.0
 	},
 	"layout":
 	{
@@ -193,7 +170,7 @@
 	"project": "apirestful.sublime-project",
 	"replace":
 	{
-		"height": 0.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -235,7 +212,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 247.0,
+	"side_bar_width": 405.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

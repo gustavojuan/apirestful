@@ -1,3 +1,14 @@
+---------------------------
+Administrador: cmd - ping  homestead.test (Admin)
+---------------------------
+OpenClipboard failed (SetClipboard), Code=5
+LastError=0x00000005
+Acceso denegado.
+
+
+---------------------------
+Reintentar   Cancelar   
+---------------------------
 /node_modules
 /public/hot
 /public/storage
